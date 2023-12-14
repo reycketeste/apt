@@ -1,0 +1,25 @@
+Codename: focal
+Date: Thu, 14 Dec 2023 13:01:23 UTC
+Architectures: amd64 i386
+Components: main
+MD5Sum:
+ f4b60d2aaad6c5f159f6751a42aec1a2 377 main/binary-amd64/Packages
+ 2f8dff47dbc6299e19e722dc3035aa54 295 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+ f4b60d2aaad6c5f159f6751a42aec1a2 377 main/binary-i386/Packages
+ 2f8dff47dbc6299e19e722dc3035aa54 295 main/binary-i386/Packages.gz
+ 5e77d15a7c8b516e15488780beb4ad24 35 main/binary-i386/Release
+SHA1:
+ 0d54adb85465eb253b5b9db4065a60e3ba7dd77d 377 main/binary-amd64/Packages
+ 71f1f68d7870bcab6cc8531388d738ea3dc53ef2 295 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+ 0d54adb85465eb253b5b9db4065a60e3ba7dd77d 377 main/binary-i386/Packages
+ 71f1f68d7870bcab6cc8531388d738ea3dc53ef2 295 main/binary-i386/Packages.gz
+ ea0e5aa4a1859481eb8929e40af14736bd50387b 35 main/binary-i386/Release
+SHA256:
+ ef092a24c4d22da185fc57fab99f3a6b52a36da87fec1a0e39fa03ba4c0173ed 377 main/binary-amd64/Packages
+ 52f7d4d490b0e7a02bc2f65212750bce0299eaf634c9271d2ca44c2013c15ac0 295 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
+ ef092a24c4d22da185fc57fab99f3a6b52a36da87fec1a0e39fa03ba4c0173ed 377 main/binary-i386/Packages
+ 52f7d4d490b0e7a02bc2f65212750bce0299eaf634c9271d2ca44c2013c15ac0 295 main/binary-i386/Packages.gz
+ 2ca4451c438b7f4614813919cded632edc7d0318dd7b120d5aa77ec03f055dd6 35 main/binary-i386/Release

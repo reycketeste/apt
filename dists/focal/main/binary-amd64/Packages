@@ -1,0 +1,13 @@
+Package: meu-pacote
+Version: 1.0
+Architecture: all
+Maintainer: rayk <raykapex1@gmail.com>
+Priority: optional
+Section: base
+Filename: pool/main/m/meu-pacote/meu-pacote_1.0_all.deb
+Size: 582
+SHA256: e97fa4d34c2b8d61de0f9e4d19f630d1e665216a40920b4d5a9852643e5ec4e2
+SHA1: b4559c884a20100f1e0234216c43ff1e89bd641a
+MD5sum: fdd4e099b23c5b0faf5a1d0d2fdb4b20
+Description: pacote teste
+
